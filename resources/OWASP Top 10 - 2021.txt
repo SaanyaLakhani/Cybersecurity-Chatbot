@@ -1,0 +1,42 @@
+OWASP Top 10 - 2021
+===================
+
+1. Broken Access Control
+   - Description: Restrictions on what authenticated users are allowed to do are not properly enforced.
+   - Example: Accessing another user's account by changing the user ID in the URL.
+
+2. Cryptographic Failures
+   - Description: Sensitive data is not properly protected due to weak encryption or lack of encryption.
+   - Example: Storing passwords in plaintext.
+
+3. Injection
+   - Description: Untrusted data is sent to an interpreter as part of a command or query.
+   - Example: SQL injection, OS command injection.
+
+4. Insecure Design
+   - Description: Security flaws arise from missing or ineffective control design.
+   - Example: Lack of threat modeling during design.
+
+5. Security Misconfiguration
+   - Description: Default configurations, incomplete configurations, or misconfigured permissions.
+   - Example: Leaving debug mode enabled in production.
+
+6. Vulnerable and Outdated Components
+   - Description: Using components with known vulnerabilities.
+   - Example: Using an outdated version of a library.
+
+7. Identification and Authentication Failures
+   - Description: Weak authentication mechanisms or session management.
+   - Example: Allowing weak passwords.
+
+8. Software and Data Integrity Failures
+   - Description: Code and infrastructure integrity is not verified.
+   - Example: Using untrusted dependencies.
+
+9. Security Logging and Monitoring Failures
+   - Description: Insufficient logging and monitoring.
+   - Example: Not logging failed login attempts.
+
+10. Server-Side Request Forgery (SSRF)
+    - Description: Forging requests from the server to internal or external resources.
+    - Example: Accessing internal systems via a vulnerable endpoint.

@@ -1,0 +1,74 @@
+CIS Controls v8
+===============
+
+1. Inventory and Control of Enterprise Assets
+   - Description: Actively manage all hardware and software assets.
+   - Example: Maintain an up-to-date inventory of all devices.
+
+2. Inventory and Control of Software Assets
+   - Description: Actively manage all software installed on devices.
+   - Example: Use automated tools to track software installations.
+
+3. Data Protection
+   - Description: Protect data at rest and in transit.
+   - Example: Encrypt sensitive data.
+
+4. Secure Configuration of Enterprise Assets and Software
+   - Description: Establish and maintain secure configurations.
+   - Example: Disable unnecessary services.
+
+5. Account Management
+   - Description: Manage user accounts and permissions.
+   - Example: Enforce strong password policies.
+
+6. Access Control Management
+   - Description: Control access to systems and data.
+   - Example: Implement role-based access control.
+
+7. Continuous Vulnerability Management
+   - Description: Continuously assess and remediate vulnerabilities.
+   - Example: Use automated vulnerability scanning tools.
+
+8. Audit Log Management
+   - Description: Collect and analyze audit logs.
+   - Example: Centralize log collection.
+
+9. Email and Web Browser Protections
+   - Description: Secure email and web browsing.
+   - Example: Use email filtering and web proxies.
+
+10. Malware Defenses
+    - Description: Implement anti-malware solutions.
+    - Example: Use endpoint protection software.
+
+11. Data Recovery
+    - Description: Regularly back up data and test recovery.
+    - Example: Perform automated backups.
+
+12. Network Infrastructure Management
+    - Description: Secure network devices and configurations.
+    - Example: Segment networks.
+
+13. Network Monitoring and Defense
+    - Description: Monitor network traffic for threats.
+    - Example: Use intrusion detection systems.
+
+14. Security Awareness and Training
+    - Description: Train employees on security best practices.
+    - Example: Conduct phishing simulations.
+
+15. Service Provider Management
+    - Description: Manage third-party service providers.
+    - Example: Assess vendor security practices.
+
+16. Application Software Security
+    - Description: Secure applications throughout their lifecycle.
+    - Example: Perform code reviews.
+
+17. Incident Response Management
+    - Description: Establish and maintain an incident response plan.
+    - Example: Conduct regular incident response drills.
+
+18. Penetration Testing
+    - Description: Perform regular penetration testing.
+    - Example: Simulate real-world attacks.
