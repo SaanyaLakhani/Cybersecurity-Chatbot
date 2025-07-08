@@ -132,7 +132,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name]
+Developed by Saanya Lakhani
 
 ---
 
